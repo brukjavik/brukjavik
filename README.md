@@ -1,4 +1,4 @@
-### Hi there, I'm Bruno
+### Hi there, I'm Bruno 👋
 
 ### About me:
 
@@ -28,6 +28,8 @@
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linux.svg">
 
 <br /><br />
+
+### About my activity on GitHub:
 
 <div align="center">
   <a href="https://github.com/brunoricky">
