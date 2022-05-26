@@ -7,15 +7,6 @@
 - 📫 How to reach me: 1bruqj@gmail.com
 - ⚡ Fun fact: Even though I'm really bad at, I like to play chess.
 
-### Social medias:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/bruqj/)
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/steam.svg"/>](https://steamcommunity.com/id/bruqj/)
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg"/>](https://www.facebook.com/bruqj)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/bruqj/)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/bruqj)
-
-<br />
-
 ### My skills:
 
 <img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg">
@@ -26,6 +17,17 @@
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg">
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/postgresql.svg">
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linux.svg">
+
+<br />
+
+### Contact:
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:1bruqj@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/bruqj/)
+[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/steam.svg"/>](https://steamcommunity.com/id/bruqj/)
+[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg"/>](https://www.facebook.com/bruqj)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/bruqj/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/bruqj)
+
 
 <br />
 
