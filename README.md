@@ -14,7 +14,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/bruqj/)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/bruqj)
 
-<br /><br />
+<br />
 
 ### My skills:
 
@@ -27,7 +27,7 @@
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/postgresql.svg">
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linux.svg">
 
-<br /><br />
+<br />
 
 ### About my activity on GitHub:
 
