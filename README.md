@@ -17,6 +17,7 @@
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg">
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mongodb.svg">
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linux.svg">
+<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg">
 
 <br />
 
@@ -36,6 +37,6 @@
 <div align="center">
   <a href="https://github.com/brunoricky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoricky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricky&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricky&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <br /><br />
