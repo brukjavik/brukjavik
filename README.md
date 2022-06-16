@@ -15,7 +15,7 @@
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg">
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg">
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg">
-<img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/postgresql.svg">
+<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mongodb.svg">
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linux.svg">
 
 <br />
