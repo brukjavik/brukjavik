@@ -11,6 +11,7 @@
 
 <img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg">
 <img align="left" alt="C++" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/cplusplus.svg">
+<img align="left" alt="js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg">
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg">
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg">
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg">
