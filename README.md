@@ -3,7 +3,7 @@
 ### About me:
 
 - 📚 Graduating in Computer Engineering @ UFPB 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React
 - 📫 How to reach me: 1bruqj@gmail.com
 - ⚡ Fun fact: Even though I'm really bad at, I like to play chess.
 
