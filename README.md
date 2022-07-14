@@ -15,6 +15,7 @@
 <img align="left" alt="jquery" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/jquery.svg">
 <img align="left" alt="nodedotjs" width="35px" src="https://svgur.com/i/iZX.svg">
 <img align="left" alt="express" width="35px" src="https://simpleicons.org/icons/express.svg">
+<img align="left" alt="react" width="35px" src="https://simpleicons.org/icons/react.svg">
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg">
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg">
 <img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg">
