@@ -24,6 +24,7 @@
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
+<br />
 <img align="left" alt="figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
 
 <br />
